@@ -20,4 +20,4 @@ docker rmi bssenthilkumar11/coit-backend1:$version
 **/target/*.jar
 
 hi
-fine senthil
+everyhing fine senthil.
